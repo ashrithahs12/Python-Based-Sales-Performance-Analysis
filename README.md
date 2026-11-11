@@ -1,6 +1,4 @@
-# Python Based Sales Performance Analysis
-
-# 📊 Sales Performance Analysis System
+# 📊 Python Based Sales Performance Analysis System
 
 ## 📌 Project Overview
 
